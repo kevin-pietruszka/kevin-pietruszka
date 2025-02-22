@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [https://kevinpietruszka.me/](https://kevinpietruszka.me/)
 
-- 📫 How to reach me **kevinpiet13@gmail.com**
+- 📫 How to reach me **kevin.pietruszka@proton.me**
 
 - 📄 Know about my experiences [https://kevinpietruszka.me/resume](https://kevinpietruszka.me/resume)
 
